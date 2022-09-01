@@ -1,0 +1,112 @@
+@media screen and (max-width:1207px){
+    .nav_list {
+        gap: 20px;
+    }
+    .header_things {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .nav2 {
+        margin-top: 20px;
+        display: block;
+    }
+}
+
+@media screen and (max-width:1004px){
+    .nav_list{
+        flex-direction: column;
+        position: fixed;
+        right: -300px;
+        background-color: rgba(0, 0, 0, 0.5);
+        top: 0;
+        margin-top: 0;
+        padding-top: 50px;
+        width: 300px;
+        height: 40vh;
+        text-align: center;
+        border-radius: 0 0 0 6px;
+        transition: 0.5s ease-in;
+    }
+    .card{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .header_icons_container{
+        max-width: 100%;
+        justify-content: space-between;
+        position: fixed;
+        bottom: 0;
+        background-color: black;
+        left: 0;
+        right: 0;
+        z-index: 999;
+        height: 77px;
+        margin-left: 0;
+        padding: 25px 30px 0 30px;
+    }
+    .input_search {
+        margin-left: 0px;
+    }
+    .input_search input {
+        display: none;
+    }
+    .header_icons_container svg{
+        width: 40px;
+        height: 40px;
+    }
+    .header_icons_container i{
+        font-size: 3rem;
+    }
+    #nav_check:checked~.nav_list{
+        right: 0;
+    }
+    label svg{
+        display: block;
+    }
+    .footer_head {
+        display: block;
+    }
+    .icons {
+        margin-top: 30px;
+    }
+    .icons svg{
+        width: 20px;
+        height: 20px;
+    }
+    .nav2 {
+        margin-top: 20px;
+        display: block;
+    }
+    .nav2 a {
+        color: var(--white);
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 14px;
+    }
+}
+
+@media screen and (max-width:557px) {
+    h1 {
+        font-family: 'Rubik Mono One', sans-serif;
+        font-weight: 1000;
+        font-size: 4rem;
+        line-height: 67px;
+        color: var(--white);
+    }
+    
+.more {
+    max-width: 500px;
+    color: var(--white);
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 22px;
+    margin-top: 35px;
+}
+}
+
+@media screen and (max-width:417px) {
+    
+}

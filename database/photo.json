@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "image":"../img/image 16 (2).png",
+        "name":"No Sudden Move"
+    },
+    {
+        "id":2,
+        "image":"../img/image 16 (3).png",
+        "name":"I Want You Back"
+    },
+    {
+        "id":3,
+        "image":"../img/image 17 (1).png",
+        "name":"Fresh"
+    },
+    {
+        "id":4,
+        "image":"../img/Rectangle 36.png",
+        "name":"After Yang"
+    },
+    {
+        "id":5,
+        "image":"../img/image 9 (2).png",
+        "name":"355"
+    },
+    {
+        "id":6,
+        "image":"../img/image 11 (1).png",
+        "name":"The Adam Project"
+    },
+    {
+        "id":7,
+        "image":"../img/image 17 (2).png",
+        "name":"After Yang"
+    },
+    {
+        "id":8,
+        "image":"../img/image 17 (1).png",
+        "name":"Fresh"
+    },
+    {
+        "id":9,
+        "image":"../img/Rectangle 34.png",
+        "name":"Breaking Bad"
+    },
+    {
+        "id":10,
+        "image":"../img/Rectangle 16.png",
+        "name":"Harry Potter"
+    },
+    {
+        "id":11,
+        "image":"../img/Rectangle 25.png",
+        "name":"Late Night"
+    },
+    {
+        "id":12,
+        "image":"../img/Rectangle 26.png",
+        "name":"Free Guy"
+    },
+    {
+        "id":13,
+        "image":"../img/Rectangle 27.png",
+        "name":"The King Of Staten Island"
+    },
+    {
+        "id":14,
+        "image":"../img/Rectangle 28.png",
+        "name":"Dolittle"
+    }
+]
