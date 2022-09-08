@@ -180,7 +180,6 @@ fetch('https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_k
             }
         })
     })
-
 for (let i = 0; i < searchOpen.length; i++) {
     searchOpen[i].addEventListener('click', () => {
         if (exitContainer.style.display === 'none') {
