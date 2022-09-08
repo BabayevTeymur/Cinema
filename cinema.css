@@ -588,3 +588,12 @@ label svg {
     font-size: 20px;
     line-height: 14px;
 }
+
+.exit{
+    display: none;
+    z-index: 999999999;
+    position: fixed;
+    margin-top: 50vh;
+    width: 100%;
+    margin-left: 40%;
+}
